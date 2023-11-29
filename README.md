@@ -14,3 +14,4 @@ Additionally, the [dotenv](https://www.npmjs.com/package/dotenv) package is used
 This project serves as an example of a back-end application. It can be used as a reference to understand how Sequelize is used to connect to a MySQL database, create tables, seed fake data, and implement CRUD operations. The provided routes can be tested in Insomnia for further learning.
 
 ## Video Submission
+https://drive.google.com/file/d/1Bob3O4rf9sr26GWCGKE76P3BbKuAUFog/view?usp=sharing
